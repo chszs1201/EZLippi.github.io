@@ -25,11 +25,11 @@ JB :
 
 # presonal config
 domain: http://coolshell.info
-title: Lippi-浮生志
+title: chszs
 description: Draw my life with code
-author: Lippi.OuYang
+author: chszs
 email: ouyanglip@gmail.com
-github: LippiOuYang
+github: chszs
 
 config:
   js_dir:
